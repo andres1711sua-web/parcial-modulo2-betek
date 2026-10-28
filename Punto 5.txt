@@ -1,0 +1,23 @@
+1. DIRECCIÓN IP / SERVICIO QUE ORIGINÓ LA CREACIÓN DE LA INSTANCIA
+
+Respuesta:
+
+- Servicio de origen: autoscaling.amazonaws.com
+
+Las instancias EC2 fueron desplegadas y creadas de forma automatizada 
+
+por el servicio de Auto Scaling Group (asg-andressuarto-parcial).
+
+
+
+2. ÚLTIMAS 5 ACCIONES DEL USUARIO IAM (andres-suarez)
+
+
+
+Respuesta:
+
+1. DescribeAlarms
+2. ListManagedNotifications
+3. LookupEvents
+4. DescribeMetricFilters
+5. GetLogEvents
